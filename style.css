@@ -1,0 +1,135 @@
+
+body {
+	font-family: Fira Sans,sans-serif;
+}
+#description {
+	padding-bottom: 20px;
+}
+
+#main-container {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	font-weight: 500;
+}
+
+h1 span {
+	color: red;
+}
+
+a.button {
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px 30px;
+	line-height: 1.8;
+	border-radius: 2px;
+	border: 1px solid transparent;
+	background-color: ;
+	transition: background .15s;
+	text-align: center;
+	background: #0996f8;
+	color: #fff;
+}
+
+a.button:hover {
+	background: #078ae6;
+}
+
+#install-btn {
+
+}
+
+#description {
+	padding: 0;
+	margin: 0;
+}
+
+#warning {
+	color: red;
+	margin-top: 0px;
+}
+
+#fb-btn {
+	background: #2cad19;
+}
+
+#fb-btn:hover {
+	background: #1f8610;
+}
+
+#buttons-box {
+	margin-right: auto;
+	margin-left: auto;
+	display:inline-block;
+	width: 100%;
+	text-align: center;
+}
+
+#install-div{
+	display:inline-block;
+}
+
+#fb-div {
+	display:inline-block;
+}
+
+
+
+div.img-div {
+
+	margin-top: 30px;
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+
+	margin-bottom: 20px;
+}
+
+#bulb-features {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#footer p {
+	margin: 0px;
+	font-size: 15px;
+	word-wrap: break-word;
+}
+
+#footer h4 {
+	margin-bottom: 10px;
+	font-weight: 500;
+	margin-top: 15px;
+}
+
+#contact {
+	width: 49%;
+	display:inline-block;
+}
+
+#issues {
+	width: 49%;
+	display:inline-block;
+}
+
+#footer a {
+	text-decoration: none;
+	color: black;
+}
+
+#footer a:hover {
+	color: red;
+}
+
+#version {
+	font-size: 12px;
+	margin: 0 0;
+}
+
+hr {
+	border-bottom: none;
+	color: red;
+}
